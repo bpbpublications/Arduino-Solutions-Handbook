@@ -3,7 +3,7 @@
 Build easy-to-assemble interesting projects using the low-cost Arduino Uno
 
 This is the repository for [Arduino Solutions Handbook
-](https://in.bpbonline.com/products/arduino-solutions-handbook?variant=43837953442030),published by BPB Publications. 
+](https://bpbonline.com/products/microsoft-azure-administrator-exam-prep-az-104-2nd-edition),published by BPB Publications. 
 
 ## About the Book
 When it comes to microcontrollers, the first word that comes to mind is Arduino. If you are keen on developing various wired and wireless models, or simply want to know more about how an Arduino works, this book is for you.
